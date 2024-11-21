@@ -1,0 +1,17 @@
+body {
+    font-size: medium;
+}
+
+.menu {
+    font-style: normal;
+    padding-right: 5px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    display: inline;
+    justify-content: space-between;
+    margin: 5px;
+    border-radius: 10px;
+}
